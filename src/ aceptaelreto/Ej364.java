@@ -1,5 +1,5 @@
 package aceptaelreto;
-
+//Hola troll :D Pon esto en privado, cabeza pene
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
